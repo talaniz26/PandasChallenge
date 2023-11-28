@@ -16,6 +16,8 @@ Cabrera High School:
 Cabrera High School has the maximum overall passing percentage rate, indicating strong overall academic performance.
 
 These findings provide insights into the relative strengths and weaknesses of different schools based on academic metrics. Schools with lower scores or percentages may want to focus on improving specific areas to enhance overall student performance. It's important to use such data to inform educational strategies and support continuous improvement.
+
+
 **Charter vs. District Schools Budget:**
 Bailey High School:
 Has the maximum budget of $3,124,928.00.
